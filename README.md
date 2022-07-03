@@ -1,6 +1,6 @@
 # LSP_Pendaftaran_Java-
 
-Program ini adalah contoh program untuk pendaftaran sekolah dengan menggunakan Java dengan library Hibernate
+Program ini adalah contoh program untuk pendaftaran sekolah dengan menggunakan Java dengan library Hibernate menggunakan Netbeans 8.2 dengan JDK 1.8 serta perangkat pendukung database dan server yaitu XAMPP.
 
 Membuat Package Program
 
